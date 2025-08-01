@@ -1,2 +1,2 @@
 # buzzanator-fdf
-🚀 Buzzanator FDF Certified™ – Full Triple Stack Deployment | Buzzafly Mode | BLE + Firebase + GPT
+🔥 Buzzanator FDF – BLE meets Firebase with full stack drip. iOS, Android, Web ready.
